@@ -29,10 +29,13 @@ O ItapasTur é um aplicativo para difundir o conhecimento de pontos turísticos,
 ## Funcionalidades
 O nosso escopo abrange as seguintes funcionalidades:
 * Criar, Editar, Ver e Deletar empreendimentos.
-* Criar, Editar, Ver e Deletar pontos turísticos (formulário para ADMS).
-* Criar, Editar, Ver e Deletar eventos (formulário para ADMS).
+* Criar, Editar, Ver e Deletar pontos turísticos.
+* Criar, Editar, Ver e Deletar eventos.
+* Criar, Editar, Ver e Deletar comentários.
 * Cadastro e Login de Usuários.
+* Ver, Editar e Deletar Usuários.
 * Integração com Google Maps para traçar rotas.
+* Criar/Deletar Likes em empreendimentos
 
 ## Tecnologias
 
